@@ -19,6 +19,9 @@ A door component with support for:
 ## Project Structure
 
 text_game_components/
+
 ├── headers/   # Component declarations
+
 ├── src/       # Component implementations
+
 └── README.md
